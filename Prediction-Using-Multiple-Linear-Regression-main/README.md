@@ -8,6 +8,6 @@ In this project, I built and evaluated multiple linear regression models using P
              
              * Perform Exploratory Data Analysis (EDA) and data visualization with seaborn
              
-             * Evaluate model fit and accuracy using numerical measures such as R² and RMSE
+             * Evaluate model fit and accuracy using numerical measures such as MAE, MSE, R² and RMSE
              
              * Model interaction effects in regression using basic feature engineering techniques
