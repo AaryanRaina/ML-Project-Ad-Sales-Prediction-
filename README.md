@@ -1,7 +1,7 @@
 # Project Name : Prediction Using Multiple Linear Regression
 
 ## Project Objectives:
-In this project, I built and evaluated multiple linear regression models using Python, used scikit-learn to calculate the regression, while using pandas for data management and seaborn for plotting. The data for this project consists of the very popular Advertising dataset to predict sales revenue based on advertising spending through media such as TV, radio, and newspaper.
+For this project, I developed and assessed several linear regression models utilizing Python. I employed scikit-learn to compute the regressions, managed the data with pandas, and visualized it using seaborn. The dataset utilized in this project is the well-known Advertising dataset, aiming to forecast sales revenue by analyzing advertising expenditures across various media channels like TV, radio, and newspapers.
 
 ## Overview :
              * Build univariate and multivariate linear regression models using scikit-learn
